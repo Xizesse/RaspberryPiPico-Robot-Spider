@@ -6,16 +6,15 @@ This repository contains the code for a 4-legged robotic spider carried out as p
 
 
 ## Features
-Movement control using SG90 servos
-Obstacle detection with VL53L0X Time-of-Flight sensor
-Orientation and motion tracking with MPU6050 IMU
-Various movement patterns and gait optimization
-
+- **Movement Control Functions**: Utilizes SG90 servos for precise movement-
+- **Obstacle Detection**: Time-of-Flight sensor for detecting obstacles.
+- **Orientation**: MPU6050 IMU for tracking the orientation and motion.
+- **Gait **:  various movement patterns and optimization for different gaits.
 
 ## Hardware
-Raspberry Pi Pico
-SG90 Servo Motors x8
-VL53L0X Time-of-Flight Sensor
-MPU6050 Gyroscope and Accelerometer
-18650 Lithium-Ion Batteries
-Pico Servo Driver
+- Raspberry Pi Pico W
+- 8 x SG90 Servos
+- VL53L0X Time-of-Flight Sensor
+- MPU6050 Gyroscope
+- 2*18650 Lithium-Ion Batteries
+- Pico Servo Driver
