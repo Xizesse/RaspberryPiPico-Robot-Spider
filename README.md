@@ -9,7 +9,7 @@ This repository contains the code for a 4-legged robotic spider carried out as p
 - **Movement Control Functions**: Utilizes SG90 servos for precise movement-
 - **Obstacle Detection**: Time-of-Flight sensor for detecting obstacles.
 - **Orientation**: MPU6050 IMU for tracking the orientation and motion.
-- **Gait **:  various movement patterns and optimization for different gaits.
+- **Gait**:  various movement patterns and optimization for different gaits.
 
 ## Hardware
 - Raspberry Pi Pico W
